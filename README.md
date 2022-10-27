@@ -1,3 +1,3 @@
 # Software Requirements Specification document
 
-Документированные требования к проекту - UsmForum. 
+Документированные требования к проекту - UsmItter. 
