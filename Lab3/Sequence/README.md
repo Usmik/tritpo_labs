@@ -5,7 +5,7 @@
 1 [Register](#1)  
 2 [Follow_page](#2)  
 3 [Get stats of page](#3)  
-4 [Set image of user](#4)
+4 [Set image of user](#3)  
 
 <a name="1"/>
 

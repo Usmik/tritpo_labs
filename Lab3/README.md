@@ -2,6 +2,6 @@
 ---
 
 # Contents
-1 [Sequence diagrams](Sequence/README.MD)  
-2 [Class Diagram]('Class Diagram'/README.md)  
-3 [Diagram of Components and Deployment](Component&Deployment/README.md)
+1 [Sequence diagrams](Sequence/README.md)  
+2 [Class Diagram](ClassDiagram/README.md)  
+3 [Diagram of Components and Deployment](ComponentAndDeployment/README.md)  
