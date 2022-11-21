@@ -4,4 +4,4 @@
 # Contents
 1 [Sequence diagrams](Sequence/README.md)  
 2 [Class Diagram](ClassDiagram/README.md)  
-3 [Diagram of Components and Deployment](ComponentAndDeployment/README.md)  
+3 [Diagram of Components and Deployment](ComponentsAndDeployment/README.md)  
