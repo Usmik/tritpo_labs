@@ -25,7 +25,7 @@ jobs:
         AWS_SECRET_ACCESS_KEY: 'temp'
         AWS_DEFAULT_REGION: 'us-east-1'
         AWS_ENDPOINT_URL: 'http://localstack:4566/'
-        AWS_EMAIL_SOURCE: 'mihail.usmanov3@gmail.com'
+        AWS_EMAIL_SOURCE: 'mihail_usmanov@gmail.com'
         AWS_BUCKET_NAME: 'bucket'
 
     - name: Make migrations

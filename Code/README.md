@@ -1,1 +1,1 @@
-# Usmik Innotter project. Analog of twitter.
+# UsmItter project. Analog of twitter.
