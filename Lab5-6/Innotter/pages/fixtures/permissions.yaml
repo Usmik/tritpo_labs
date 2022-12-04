@@ -1,0 +1,49 @@
+- model: users.User
+  pk: 1
+  fields:
+    username: admin
+    email: admin@mail.ru
+    password: admin
+    role: admin
+
+- model: users.User
+  pk: 2
+  fields:
+    username: moder
+    email: moder@mail.ru
+    password: moder
+    role: moderator
+
+- model: users.User
+  pk: 3
+  fields:
+    username: user
+    email: user@mail.ru
+    password: user
+    role: user
+    is_blocked: True
+
+- model: pages.Page
+  pk: 1
+  fields:
+    name: page1
+    puid: page1
+    owner: 2
+    followers: [3]
+
+- model: pages.Page
+  pk: 2
+  fields:
+    name: page2
+    puid: page2
+    owner: 3
+    unblock_date: 2222-08-05 08:32:52.021842+00:00
+
+- model: pages.Page
+  pk: 3
+  fields:
+    name: page3
+    puid: page3
+    owner: 2
+    follow_requests: [3]
+    is_private: True

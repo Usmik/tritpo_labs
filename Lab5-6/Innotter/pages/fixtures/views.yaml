@@ -1,0 +1,30 @@
+- model: users.User
+  pk: 1
+  fields:
+    username: user1
+    email: user1@mail.ru
+    password: user1
+    role: user
+
+- model: users.User
+  pk: 2
+  fields:
+    username: user2
+    email: user2@mail.ru
+    password: user2
+    role: user
+
+- model: pages.Page
+  pk: 1
+  fields:
+    name: page1
+    puid: page1
+    owner: 1
+
+
+- model: pages.Page
+  pk: 2
+  fields:
+    name: page2
+    puid: page2
+    owner: 2
