@@ -4,5 +4,5 @@
 
 1. [SRS](./SRS.md)
 2. [SDS](SDS/README.md)
-3. [CODE](Code/README.md)
+3. [CODE](Code/)
 4. [TESTS](Tests/README.md)
